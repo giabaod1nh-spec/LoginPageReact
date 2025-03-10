@@ -1,2 +1,2 @@
 # LoginPageReact
-Login page just vite + react and tailwindcss 
+Login page using vite + react and tailwindcss 
